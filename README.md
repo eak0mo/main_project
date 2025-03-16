@@ -29,5 +29,6 @@ Plots of the actions and reward of the TD3 Agent.
 ![TD3 actions](plots/td3-actions-final.svg)
 ![TD3 rewards](plots/td3-final-sums.svg)
 
-
+Video of the final successful run
+![final_ttpg](videos/sucess.mp4)
 
